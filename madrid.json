@@ -1,0 +1,114 @@
+{
+    "result": [
+        {
+            "namaLengkap": "Karim Benzema",
+            "namaPanggilan": "Benzema",
+            "tanggalLahir": "19 Desember 1987",
+            "umur": "35",
+            "asalNegara": "Prancis",
+            "nomorPunggung": "9",
+            "posisi": "Striker",
+            "Poster": "https://www.realmadrid.com/img/vertical_380px/benzema_av38083-002_20230606094529.jpg"
+        },
+        {
+            "namaLengkap": "Eden Hazard",
+            "namaPanggilan": "Hazard",
+            "tanggalLahir": "7 Januari 1991",
+            "umur": "32",
+            "asalNegara": "Belgia",
+            "nomorPunggung": "7",
+            "posisi": "Sayap Kiri",
+            "Poster": "https://cdn0-production-images-kly.akamaized.net/rKwbCpfA0LksUQcWgrKLMU5ezwc=/1200x1200/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4213731/original/000191200_1667472337-Real_Madrid_-_ilustrasi_Eden_Hazard_dengan_jersey_real_madrid_dan_wajah_lesu_copy.jpg"
+        },
+        {
+            "namaLengkap": "Thibaut Courtois",
+            "namaPanggilan": "Courtois",
+            "tanggalLahir": "11 Mei 1992",
+            "umur": "30",
+            "asalNegara": "Belgia",
+            "nomorPunggung": "1",
+            "posisi": "Penjaga Gawang",
+            "Poster": "https://www.realmadrid.com/img/vertical_380px/courtois_380x501_20230810054608.jpg"
+        },
+        {
+            "namaLengkap": "Vinicius Jr.",
+            "namaPanggilan": "Vinicius",
+            "tanggalLahir": "12 Juli 2000",
+            "umur": "22",
+            "asalNegara": "Brasil",
+            "nomorPunggung": "20",
+            "posisi": "Sayap Kiri",
+            "Poster": "https://www.realmadrid.com/img/vertical_380px/vinicius_380x501_20230810055554.jpg"
+        },
+        {
+            "namaLengkap": "Luka Modric",
+            "namaPanggilan": "Modric",
+            "tanggalLahir": "9 September 1985",
+            "umur": "37",
+            "asalNegara": "Kroasia",
+            "nomorPunggung": "10",
+            "posisi": "Gelandang Tengah",
+            "Poster": "https://www.realmadrid.com/cs/Satellite?blobcol=urldata&blobheader=image%2Fpng&blobkey=id&blobtable=MungoBlobs&blobwhere=1203436407421&ssbinary=true"
+        },
+        {
+            "namaLengkap": "Sergio Ramos",
+            "namaPanggilan": "Ramos",
+            "tanggalLahir": "30 Maret 1986",
+            "umur": "36",
+            "asalNegara": "Spanyol",
+            "nomorPunggung": "4",
+            "posisi": "Bek",
+            "Poster": "https://c8.alamy.com/comp/2BB5MJP/real-madrids-sergio-ramos-in-action-2BB5MJP.jpg"
+        },
+        {
+            "namaLengkap": "Toni Kroos",
+            "namaPanggilan": "Kroos",
+            "tanggalLahir": "4 Januari 1990",
+            "umur": "33",
+            "asalNegara": "Jerman",
+            "nomorPunggung": "8",
+            "posisi": "Gelandang Tengah",
+            "Poster": "https://assets.laliga.com/squad/2023/t186/p44989/2048x2048/p44989_t186_2023_1_003_000.png"
+        },
+        {
+            "namaLengkap": "Eder Militao",
+            "namaPanggilan": "Militao",
+            "tanggalLahir": "18 Januari 1998",
+            "umur": "24",
+            "asalNegara": "Brasil",
+            "nomorPunggung": "3",
+            "posisi": "Bek",
+            "Poster": "https://www.realmadrid.com/cs/Satellite?blobcol=urldata&blobheader=image%2Fpng&blobkey=id&blobtable=MungoBlobs&blobwhere=1203436406760&ssbinary=true"
+        },
+        {
+            "namaLengkap": "Casemiro",
+            "namaPanggilan": "Casemiro",
+            "tanggalLahir": "23 Februari 1992",
+            "umur": "30",
+            "asalNegara": "Brasil",
+            "nomorPunggung": "14",
+            "posisi": "Gelandang Bertahan",
+            "Poster": "https://cdn0-production-images-kly.akamaized.net/m-TEP-15xfjv5uU11Ph1LIehufQ=/1200x900/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2413403/original/059070500_1542794715-6._Casemiro.jpg"
+        },
+        {
+            "namaLengkap": "Rodrygo",
+            "namaPanggilan": "Rodrygo",
+            "tanggalLahir": "9 Januari 2001",
+            "umur": "21",
+            "asalNegara": "Brasil",
+            "nomorPunggung": "27",
+            "posisi": "Sayap Kanan",
+            "Poster": "https://www.realmadrid.com/img/vertical_380px/rodrygo_380x501_20230810055556.jpg"
+        },
+        {
+            "namaLengkap": "David Alaba",
+            "namaPanggilan": "Alaba",
+            "tanggalLahir": "24 Juni 1992",
+            "umur": "30",
+            "asalNegara": "Austria",
+            "nomorPunggung": "23",
+            "posisi": "Bek",
+            "Poster": "hhttps://cdn.vox-cdn.com/thumbor/EpXIlSezSyNYxHyly-3PLGyyj2s=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/23346202/1383831410.jpg"
+        }
+    ]
+}
